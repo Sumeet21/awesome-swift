@@ -2215,7 +2215,12 @@
 		"category": "network",
 		"description": "A lightweight, one line setup, network debugging library in Swift.",
 		"homepage": "https://github.com/kasketis/netfox"
-	}, {
+	},{
+		"title": "Web",
+		"category": "network",
+		"description": "HTTP/HTTPS agent for building type-safe web API requests and get response as JSON.",
+		"homepage": "https://github.com/Sumeet21/Web"
+	},  {
 		"title": "OAuth2",
 		"category": "network",
 		"description": "oauth2 auth lib.",
