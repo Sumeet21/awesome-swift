@@ -1273,6 +1273,11 @@
 		"description": "shiny JSON parsing library.",
 		"homepage": "https://github.com/hkellaway/Gloss",
 		"tags": ["linux"]
+	},{
+		"title": "GSONHelper",
+		"category": "json",
+		"description": "simple light JSON Helperthat parse string and dictionary to JSONArray and JSONObject",
+		"homepage": "https://github.com/Sumeet21/Web",
 	}, {
 		"title": "HandyJSON",
 		"category": "json",
